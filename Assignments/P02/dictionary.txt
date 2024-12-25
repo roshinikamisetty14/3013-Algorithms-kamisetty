@@ -1,3 +1,4 @@
+all words starting with "a"
 aaa
 aaas
 aachen
